@@ -7,3 +7,79 @@ Implementações que aprenderemos:
 Garante ordem de inserção
 Permite adição, atualização, leitura e remoção sem regras adicionais
 Permite ordenação através de comparators
+
+____________________________________________________
+
+java.util.Queue
+
+Implementações que aprenderemos:
+    java.util.LinkedList
+
+Garante ordem de inserção
+Permite adição, leitura, remoção considerando a regra básica de uma fila: primeiro que entra, primeiro que sai.
+não permite mudança de ordenação
+
+____________________________________________________
+
+java.util.set
+
+Implementações que aprenderemos:
+    java.util.HashSet
+    java.util.TreeSet
+    java.util.LinkedHashSet
+
+por padrão, não garante ordem
+não permite itens repetidos
+permite adição e remoção normalmente. não possui busca por item e atualização. para leitura, apenas navegação
+não permite mudança de ordenação
+
+HashSet
+    Quando utilizar: quando não é necessário manter uma ordenação
+    Ordenação: não é ordenado, e não permite valores repetidos
+    Performance: por não ter repetição de valores e não ser ordenado, é a implementação mais performática
+LinkedHashSet
+    Quando utilizar: quando é necessário manter a ordem de inserção dos elementos
+    Ordenação: mantem a ordem de inserção dos elementos
+    Performance: é a implementação mais lenta por ser necessária manter a ordem
+TreeSet
+    Quando utilizar: quando é necessário alterar a ordem através do uso de comparators
+    Ordenação: mantem a ordem e pode ser reordenado
+    Performance: é performatico para leitura. para modificção tem a necessidade de reordenar sendo mais lento que o LinkedHashSet
+
+-------------------------------------------------------------------
+
+java.util.Map
+
+Implementações que aprenderemos
+    java.util.HashMap
+    Java.util.TreeMap
+    java.util.HashTable
+
+Entrada de chave de valor
+Permite valores repetidos, mas não permite repetição de chave.
+Permite adição, busca por chave ou valor, atualização, remoção e navegação
+Pode ser ordenado
+
+---------------------------------------------------------------------
+
+Comparators
+
+Interfaces que aprenderemos
+    Java.util.Comparator - Interface para definir classe com regra de ordenação
+    java.util.Comparable - Interface para definir regra de ordenação em uma classe de domínio
+
+Algoritmos de ordenação
+utilizado primariamente em java.util.List
+permite a ordenação de objetos complexos ( criados pelo usuario )
+
+----------------------------------------------------------------------
+
+Optionals
+
+Tratamento para valores que podem ser nulos
+
+possui 2 estados
+    Presente
+    Vazio
+
+Permite que você execute operações em valores que podem ser nulos sem preocupação com as famosas Null PointerExceptions
