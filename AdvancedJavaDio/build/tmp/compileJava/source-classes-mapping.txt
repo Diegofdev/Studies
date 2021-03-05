@@ -1,0 +1,3 @@
+br/ucsal/interfacesFuncionais/FuncaoAltaOrdem.java
+ br.ucsal.interfacesFuncionais.Calculo
+ br.ucsal.interfacesFuncionais.FuncaoAltaOrdem
