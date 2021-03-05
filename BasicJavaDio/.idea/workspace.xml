@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f64899e-eb2b-4b47-82a4-c47af42fe58c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/configuration-cache/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/BasicJavaDio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/BasicJavaDio.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/ucsal/collections_e_Streams/Escrito.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/ucsal/collections_e_Streams/comparators/ComparatorsExampleList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/ucsal/collections_e_Streams/comparators/Estudante.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/ucsal/collections_e_Streams/comparators/EstudanteOrdemIdadeReversaComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/ucsal/collections_e_Streams/list/ExemploList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/ucsal/collections_e_Streams/list/ExemploList2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/ucsal/collections_e_Streams/map/ExemploHashMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/ucsal/collections_e_Streams/optionals/ExemploOptioalPrimitivos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/ucsal/collections_e_Streams/optionals/ExemploOptional.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/ucsal/collections_e_Streams/optionals/ExemploOptionalEstados.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/ucsal/collections_e_Streams/queue/ExemploQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/ucsal/collections_e_Streams/set/ExemploHashSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/ucsal/collections_e_Streams/set/ExemploLinkedHashSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/ucsal/collections_e_Streams/set/ExemploTreeSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/ucsal/desenvolvimentoAvancadoJava/interfacesFuncionais/Escrito.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/ucsal/desenvolvimentoAvancadoJava/interfacesFuncionais/FuncaoAltaOrdem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/ucsal/workingWithDates/calendar/Exemplo001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/ucsal/workingWithDates/calendar/Exemplo002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/ucsal/workingWithDates/dateFormat/Exemplo001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/ucsal/workingWithDates/dateFormat/Exemplo002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/ucsal/workingWithDates/dates/DateClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/ucsal/workingWithDates/localDateJava8/ExLocalDateTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/ucsal/workingWithDates/localDateJava8/ExLocalTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/ucsal/workingWithDates/localDateJava8/Exemplo001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/ucsal/workingWithDates/localDateJava8/Exemplo002.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1pJdSebdtgjgsfymW5ULDg5B6ol" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ExemploList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.ucsal.collections_e_Streams.list.ExemploList" />
+      <module name="BasicJavaDio.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.ucsal.collections_e_Streams.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExemploList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f64899e-eb2b-4b47-82a4-c47af42fe58c" name="Default Changelist" comment="" />
+      <created>1614905127359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614905127359</updated>
+      <workItem from="1614905128456" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
