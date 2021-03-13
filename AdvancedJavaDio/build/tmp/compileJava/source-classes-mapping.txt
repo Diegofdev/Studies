@@ -1,3 +1,14 @@
+br/ucsal/interfacesFuncionais/Funcoes.java
+ br.ucsal.interfacesFuncionais.Funcoes
+br/ucsal/interfacesFuncionais/Predicados.java
+ br.ucsal.interfacesFuncionais.Predicados
+br/ucsal/interfacesFuncionais/Consumidores.java
+ br.ucsal.interfacesFuncionais.Consumidores
 br/ucsal/interfacesFuncionais/FuncaoAltaOrdem.java
  br.ucsal.interfacesFuncionais.Calculo
  br.ucsal.interfacesFuncionais.FuncaoAltaOrdem
+br/ucsal/processamentoAssincronoEParalelo/ThreadExemplo.java
+ br.ucsal.processamentoAssincronoEParalelo.BarraDeCarregamento
+ br.ucsal.processamentoAssincronoEParalelo.BarraDeCarregamento2
+ br.ucsal.processamentoAssincronoEParalelo.GeradorPDF
+ br.ucsal.processamentoAssincronoEParalelo.ThreadExemplo
